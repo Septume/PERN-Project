@@ -2,4 +2,9 @@
 
 Projet de formation à la haute école du numérique Digifab.
 
-Devant reproduire avec les technologies React, Node.js et SQL un formulaire basique afin de découvrir React et le SQL.
+- Création d'une base de donnée avec le SQL
+- Mise en place du Backend sur Node.js 
+    - Serveur, Routes et CRUD
+- Mise en place du Frontend sur React
+    - Formulaire dynamique
+
